@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoCompleteEmailView</string>
+    <string name="email_hint">E-mail Address</string>
+    <string name="custom_colors">Customize the colors</string>
+    <string name="clear_fields">Clear</string>
+
+    <string-array name="email_domains">
+        <item>"@hotmail.com"</item>
+        <item>"@gmail.com"</item>
+        <item>"@windowslive.com"</item>
+    </string-array>
+</resources>
